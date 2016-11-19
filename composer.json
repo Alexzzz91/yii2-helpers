@@ -1,5 +1,5 @@
 {
-    "name": "demi/helpers",
+    "name": "alk/helpers",
     "description": "A set of Yii2 helpers",
     "keywords": ["yii2", "helpers", "string", "datetime"],
     "homepage": "https://github.com/demisang/yii2-helpers#readme",
